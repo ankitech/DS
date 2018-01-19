@@ -91,7 +91,7 @@ public class LinkedList<T extends Comparable<T>> implements List<T>{
 		
 		while(node != null)
 		{
-			System.out.println(node + " - ");
+			System.out.print(node + " -> ");
 			node = node.getNextNode();
 		}
 		
