@@ -1,5 +1,5 @@
 package array;
-
+//th issi a progrma by anikt
 public class Array {
 
 	public static void main(String[] args) {
